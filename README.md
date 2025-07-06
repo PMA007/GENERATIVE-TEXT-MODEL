@@ -24,5 +24,4 @@ Here's a brief overview of its functionality:
 
 In essence, this tool demonstrates the fundamental principles of how neural networks can learn to generate human-like text by predicting subsequent characters in a sequence.
 
-# **OUTPUT**:
 
